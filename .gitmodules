@@ -1,0 +1,3 @@
+[submodule "sepm"]
+	path = sepm
+	url = https://github.com/gawaderahul21/sepm.git
